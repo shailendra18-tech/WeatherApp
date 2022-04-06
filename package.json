@@ -1,0 +1,24 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "The weather app which provides the real time weather data ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shailendra18-tech/WeatherApp.git"
+  },
+  "author": "Shailendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shailendra18-tech/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/shailendra18-tech/WeatherApp#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "request": "^2.88.2"
+  }
+}
